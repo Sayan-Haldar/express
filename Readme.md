@@ -4,6 +4,8 @@
 
 **This project has a [Code of Conduct][].**
 
+# Sayan Haldar
+
 ## Table of contents
 
 * [Installation](#Installation)
